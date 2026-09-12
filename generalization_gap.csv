@@ -1,0 +1,5 @@
+Model,Train_F1,Validation_F1,Train_Validation_Gap
+Random Forest,0.8821,0.6208,0.2613
+XGBoost,0.6820,0.6364,0.0456
+Logistic Regression,0.6274,0.6247,0.0027
+Decision Tree,0.6230,0.6218,0.0012

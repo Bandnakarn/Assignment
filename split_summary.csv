@@ -1,0 +1,4 @@
+Split,Customers,Churn,No_Churn,Churn_Rate
+Train,4930,1308,3622,0.265314
+Validation,1056,280,776,0.265152
+Test,1057,281,776,0.265847
